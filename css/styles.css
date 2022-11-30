@@ -78,6 +78,7 @@ img {
 
 /* -----Шапка сайта----- */
 .header {
+  display: inline;
   margin-left: auto;
   margin-right: auto;
 
